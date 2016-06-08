@@ -1,5 +1,5 @@
 import java.util.Scanner;
-
+//lab 3 test
 public class TableOfPowers {
 	public static void main(String[] args) {
 		//pair programming excercise to display a table of powers
@@ -17,6 +17,7 @@ public class TableOfPowers {
 		
 		for (int i = 1; i <= num; i++){
 			System.out.println(i + "\t" + i * i + "\t" + i * i * i);
+			//hello
 		}
 	}
 }
